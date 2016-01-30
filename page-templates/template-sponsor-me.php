@@ -506,7 +506,7 @@ get_header(); ?>
               </div>
               <br>
               <div class="form-group">
-                <label class="control-label col-sm-3" for="phone"> Comment :</label>
+                <label class="control-label col-sm-3" for="phone"> Comment : <br> <small style="font-weight: normal;">This comment will be posted on the runner page</small></label>
                 <div class="col-sm-6">
                   <textarea id="sponsor_comment" aria-required="true" class="form-control" cols="45" name="Comments" required rows="8"></textarea>
                 </div>
